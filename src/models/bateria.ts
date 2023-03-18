@@ -1,7 +1,8 @@
-export class Producto {
+export class Bateria {
 
     id!: String;
     marca!: String;
+    nombre!: String;
     voltios!: number;
     amperaje!: number;
     largo!: number;

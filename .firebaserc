@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "projectelectror"
+  },
+  "targets": {
+    "projectelectror": {
+      "hosting": {
+        "ProjectElectroR": [
+          "projectelectror"
+        ]
+      }
+    }
   }
 }

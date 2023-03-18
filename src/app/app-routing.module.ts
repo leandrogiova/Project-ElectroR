@@ -15,3 +15,14 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+
+
+
+/*
+Ayuda con firebase
+https://www.youtube.com/watch?v=t_YSrxj0wGY&ab_channel=Garajedeideas
+
+
+
+https://www.youtube.com/watch?v=t_YSrxj0wGY&ab_channel=Garajedeideas
+*/
